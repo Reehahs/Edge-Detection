@@ -4,7 +4,7 @@ This software is built with Java.
 
 Will require IDE to test.
 
-Will need to manually put in the directory test picture into the input area.
+Will need to manually put in the directory of the test picture into the input area.
 
 The output picture will be edgesTmp.png. 
 
