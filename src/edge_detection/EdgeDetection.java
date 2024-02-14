@@ -1,4 +1,4 @@
-package cp467_a1;
+package edge_detection;
 
 
 
